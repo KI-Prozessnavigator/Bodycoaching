@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ki-prozessnavigator.github.io/Bodycoaching/sitemap.xml
