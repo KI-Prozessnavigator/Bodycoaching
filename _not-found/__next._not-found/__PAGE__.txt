@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/Bodycoaching/_next/static/chunks/467c2cbab4cb7b42.js","/Bodycoaching/_next/static/chunks/8b3f90ab5b2697d5.js"],""]
+3:I[97367,["/Bodycoaching/_next/static/chunks/ff1a16fafef87110.js","/Bodycoaching/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"fXRVWFX7CJciH98fU_o93","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"section-padding","children":["$","div",null,{"className":"container-page text-center","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.2em] text-neutral-700","children":"404"}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold","children":"Seite nicht gefunden"}],["$","p",null,{"className":"mt-3 text-sm text-neutral-700","children":"Die gewünschte Seite existiert nicht oder wurde verschoben."}],["$","$L2",null,{"href":"/","className":"mt-6 inline-flex rounded-full bg-primary px-6 py-3 text-sm font-semibold text-white","children":"Zur Startseite"}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

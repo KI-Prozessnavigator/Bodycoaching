@@ -1,0 +1,4 @@
+:HL["/Bodycoaching/_next/static/chunks/3ed0b7ca38df5ddc.css","style"]
+:HL["/Bodycoaching/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Bodycoaching/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"fXRVWFX7CJciH98fU_o93","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"leistungen","paramType":null,"paramKey":"leistungen","hasRuntimePrefetch":false,"slots":{"children":{"name":"wellness","paramType":null,"paramKey":"wellness","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
